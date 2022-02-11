@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+    </head>
+    <body>
+    
+        <h1>Travel to America </h1>
+        
+        <img src="https://cdn5.vedomosti.ru/crop/image/2021/7q/1eublt/original-1tw4.jpg?height=609&width=1082" alt="фото достопримечательности Америки" width="150">
+        
+        <h2>Tourism and attractions USA </h2>
+        
+        <p>Tourism in the United States is a major industry that provides services to millions of tourists each year, both from abroad and within the United States. Tourists come to the USA to see cities, nature, historical monuments, as well as visit various attractions and places of entertainment. The same is interesting for the Americans themselves, who, among other things, often visit recreation areas.
+Currently, the United States attracts tourists with its National Parks, amusement parks, festivals, gambling centers, golf courses, historic buildings and monuments, hotels, museums, galleries, outdoor recreation, spas, restaurants and sporting events.
+            </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Statue_of_Liberty_7.jpg/200px-Statue_of_Liberty_7.jpg" alt="одна из главных достопримечательности Америки" width="200">
+        <h2> How to prepare for a solo trip to the USA</h2>
+        
+        <ol>
+            <li>Get a US visa</li>
+            <li>Buy tickets to the USA</li>
+            <li>Rent a car</li>
+            <li>Get travel insurance for your trip to the USA</li>
+            <li>Book your stay</li>
+            <li>Gather information about the places you want to visit</li>
+            <li>Local SIM card with internet</li>
+        </ol>
+        
+    </body>
+</html>
