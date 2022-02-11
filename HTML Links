@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links for learning</title>
+    </head>
+    <body>
+        
+        <h1>Links for learning</h1>
+        
+        <ul>
+            <li> <a href="https://www.youtube.com/watch?v=ex9dExDebTg">100+ фактов, в которые сложно поверить с первого раза</a> </li>
+            <li> <a href="https://www.youtube.com/watch?v=u1F5tmz0qSY"> 19 Вещей, Которые Вы Увидите Впервые в Жизни</a> </li>
+            <li> <a href="https://www.youtube.com/watch?v=_hGuLM4Y-xM"> 13 Самых Невероятных Природных Явлений</a> </li>
+        </ul>
+        <a href="https://youtu.be/A_gzAJ-EQlU"> <img src="https://www.kasandbox.org/programming-images/cute/Heart.png">
+            </a>
+        
+        
+    </body>
+</html>
